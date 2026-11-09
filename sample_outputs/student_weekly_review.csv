@@ -1,0 +1,289 @@
+week_ending,student_id,advisory,courses_reported,f_count,d_count,close_to_f_count,watch_count,failing_courses_without_weekly_post,failing_course_codes,journal_entries_this_week,review_level
+2026-09-04,S0001,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-04,S0002,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0003,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0004,Advisory 4,5,1,0,0,0,0,ELECT1-A,0,Follow-up review
+2026-09-04,S0005,Advisory 1,5,0,1,0,1,0,,1,No current failure
+2026-09-04,S0006,Advisory 2,5,1,0,0,0,1,SOC1-A,0,Follow-up review
+2026-09-04,S0007,Advisory 3,5,0,1,1,0,0,,0,No current failure
+2026-09-04,S0008,Advisory 4,5,1,0,0,0,0,MATH1-A,0,Follow-up review
+2026-09-04,S0009,Advisory 1,5,1,0,0,0,0,ENG1-B,0,Follow-up review
+2026-09-04,S0010,Advisory 2,5,0,1,1,0,0,,1,No current failure
+2026-09-04,S0011,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0012,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0013,Advisory 1,5,1,0,0,0,0,ELECT1-B,2,Current failure
+2026-09-04,S0014,Advisory 2,5,0,1,0,1,0,,0,No current failure
+2026-09-04,S0015,Advisory 3,5,0,2,1,1,0,,1,No current failure
+2026-09-04,S0016,Advisory 4,5,1,0,0,0,0,SCI1-A,0,Follow-up review
+2026-09-04,S0017,Advisory 1,5,1,0,0,0,0,MATH1-B,0,Follow-up review
+2026-09-04,S0018,Advisory 2,5,1,0,0,0,1,ENG1-A,0,Follow-up review
+2026-09-04,S0019,Advisory 3,5,0,1,0,1,0,,0,No current failure
+2026-09-04,S0020,Advisory 4,5,0,0,0,0,0,,1,No current failure
+2026-09-04,S0021,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0022,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0023,Advisory 3,5,0,1,1,0,0,,0,No current failure
+2026-09-04,S0024,Advisory 4,5,1,0,0,0,1,SOC1-A,0,Follow-up review
+2026-09-04,S0025,Advisory 1,5,1,0,0,0,1,SCI1-B,1,Follow-up review
+2026-09-04,S0026,Advisory 2,5,1,0,0,0,0,MATH1-A,2,Current failure
+2026-09-04,S0027,Advisory 3,5,0,1,0,1,0,,0,No current failure
+2026-09-04,S0028,Advisory 4,5,0,1,1,0,0,,0,No current failure
+2026-09-04,S0029,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0030,Advisory 2,5,0,0,0,0,0,,1,No current failure
+2026-09-04,S0031,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0032,Advisory 4,5,1,0,0,0,0,ELECT1-A,0,Follow-up review
+2026-09-04,S0033,Advisory 1,5,0,2,1,1,0,,0,No current failure
+2026-09-04,S0034,Advisory 2,5,1,1,0,1,0,SCI1-A,0,Follow-up review
+2026-09-04,S0035,Advisory 3,5,1,1,1,0,0,MATH1-B,1,Current failure
+2026-09-04,S0036,Advisory 4,5,0,1,0,1,0,,0,No current failure
+2026-09-04,S0037,Advisory 1,5,0,1,0,1,0,,0,No current failure
+2026-09-04,S0038,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0039,Advisory 3,5,0,0,0,0,0,,2,No current failure
+2026-09-04,S0040,Advisory 4,5,0,0,0,0,0,,1,No current failure
+2026-09-04,S0041,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-04,S0042,Advisory 2,5,1,1,0,1,1,SOC1-A,0,Follow-up review
+2026-09-04,S0043,Advisory 3,5,1,1,0,1,1,SCI1-B,0,Follow-up review
+2026-09-04,S0044,Advisory 4,5,1,1,0,1,0,MATH1-A,0,Follow-up review
+2026-09-04,S0045,Advisory 1,5,0,1,1,0,0,,1,No current failure
+2026-09-04,S0046,Advisory 2,5,1,0,0,0,1,ENG1-A,0,Follow-up review
+2026-09-04,S0047,Advisory 3,5,0,1,0,1,0,,0,No current failure
+2026-09-04,S0048,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0049,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0050,Advisory 2,5,0,1,1,0,0,,1,No current failure
+2026-09-04,S0051,Advisory 3,5,1,1,0,1,0,SOC1-B,0,Follow-up review
+2026-09-04,S0052,Advisory 4,5,0,1,0,1,0,,2,No current failure
+2026-09-04,S0053,Advisory 1,5,0,1,0,1,0,,0,No current failure
+2026-09-04,S0054,Advisory 2,5,0,1,1,0,0,,0,No current failure
+2026-09-04,S0055,Advisory 3,5,0,1,1,0,0,,1,No current failure
+2026-09-04,S0056,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0057,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0058,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0059,Advisory 3,5,1,0,0,0,0,ELECT1-B,0,Follow-up review
+2026-09-04,S0060,Advisory 4,5,1,1,0,1,1,SOC1-A,1,Follow-up review
+2026-09-04,S0061,Advisory 1,5,1,1,0,1,1,SCI1-B,0,Follow-up review
+2026-09-04,S0062,Advisory 2,5,1,1,1,0,0,MATH1-A,0,Follow-up review
+2026-09-04,S0063,Advisory 3,5,0,1,0,1,0,,0,No current failure
+2026-09-04,S0064,Advisory 4,5,1,0,0,0,1,ENG1-A,0,Follow-up review
+2026-09-04,S0065,Advisory 1,5,0,0,0,0,0,,2,No current failure
+2026-09-04,S0066,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0067,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-04,S0068,Advisory 4,5,1,0,0,0,0,ELECT1-A,0,Follow-up review
+2026-09-04,S0069,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-04,S0070,Advisory 2,5,0,1,0,1,0,,1,No current failure
+2026-09-04,S0071,Advisory 3,5,0,1,0,1,0,,0,No current failure
+2026-09-04,S0072,Advisory 4,5,0,1,1,0,0,,0,No current failure
+2026-09-11,S0001,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0002,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0003,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0004,Advisory 4,5,0,1,1,0,0,,1,No current failure
+2026-09-11,S0005,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-11,S0006,Advisory 2,5,1,0,0,0,1,SCI1-A,0,Follow-up review
+2026-09-11,S0007,Advisory 3,5,1,1,0,1,0,MATH1-B,0,Follow-up review
+2026-09-11,S0008,Advisory 4,5,0,1,1,0,0,,0,No current failure
+2026-09-11,S0009,Advisory 1,5,0,1,1,0,0,,1,No current failure
+2026-09-11,S0010,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0011,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0012,Advisory 4,5,0,0,0,0,0,,2,No current failure
+2026-09-11,S0013,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-11,S0014,Advisory 2,5,1,1,0,1,0,SOC1-A,1,Current failure
+2026-09-11,S0015,Advisory 3,5,0,1,0,1,0,,0,No current failure
+2026-09-11,S0016,Advisory 4,5,1,1,1,0,0,MATH1-A,0,Follow-up review
+2026-09-11,S0017,Advisory 1,5,1,0,0,0,0,MATH1-B,0,Follow-up review
+2026-09-11,S0018,Advisory 2,5,1,0,0,0,0,ENG1-A,0,Follow-up review
+2026-09-11,S0019,Advisory 3,5,0,0,0,0,0,,1,No current failure
+2026-09-11,S0020,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0021,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0022,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0023,Advisory 3,5,0,1,0,1,0,,0,No current failure
+2026-09-11,S0024,Advisory 4,5,0,1,0,1,0,,1,No current failure
+2026-09-11,S0025,Advisory 1,5,0,1,1,0,0,,2,No current failure
+2026-09-11,S0026,Advisory 2,5,1,0,0,0,0,MATH1-A,0,Follow-up review
+2026-09-11,S0027,Advisory 3,5,0,1,1,0,0,,0,No current failure
+2026-09-11,S0028,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0029,Advisory 1,5,0,0,0,0,0,,1,No current failure
+2026-09-11,S0030,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0031,Advisory 3,5,1,0,0,0,0,ELECT1-B,0,Follow-up review
+2026-09-11,S0032,Advisory 4,5,1,1,0,1,0,SOC1-A,0,Follow-up review
+2026-09-11,S0033,Advisory 1,5,0,1,0,1,0,,0,No current failure
+2026-09-11,S0034,Advisory 2,5,0,1,1,0,0,,1,No current failure
+2026-09-11,S0035,Advisory 3,5,0,2,1,1,0,,0,No current failure
+2026-09-11,S0036,Advisory 4,5,1,0,0,0,0,ENG1-A,0,Follow-up review
+2026-09-11,S0037,Advisory 1,5,0,1,0,1,0,,0,No current failure
+2026-09-11,S0038,Advisory 2,5,0,0,0,0,0,,2,No current failure
+2026-09-11,S0039,Advisory 3,5,0,0,0,0,0,,1,No current failure
+2026-09-11,S0040,Advisory 4,5,1,0,0,0,0,ELECT1-A,0,Follow-up review
+2026-09-11,S0041,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-11,S0042,Advisory 2,5,0,1,0,1,0,,0,No current failure
+2026-09-11,S0043,Advisory 3,5,0,1,1,0,0,,0,No current failure
+2026-09-11,S0044,Advisory 4,5,1,1,0,1,0,MATH1-A,1,Current failure
+2026-09-11,S0045,Advisory 1,5,1,0,0,0,0,ENG1-B,0,Follow-up review
+2026-09-11,S0046,Advisory 2,5,0,1,0,1,0,,0,No current failure
+2026-09-11,S0047,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0048,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0049,Advisory 1,5,0,0,0,0,0,,1,No current failure
+2026-09-11,S0050,Advisory 2,5,1,1,1,0,0,SOC1-A,0,Follow-up review
+2026-09-11,S0051,Advisory 3,5,0,1,1,0,0,,2,No current failure
+2026-09-11,S0052,Advisory 4,5,1,0,0,0,1,SCI1-A,0,Follow-up review
+2026-09-11,S0053,Advisory 1,5,1,0,0,0,0,MATH1-B,0,Follow-up review
+2026-09-11,S0054,Advisory 2,5,0,2,1,1,0,,1,No current failure
+2026-09-11,S0055,Advisory 3,5,0,1,0,1,0,,0,No current failure
+2026-09-11,S0056,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0057,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0058,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0059,Advisory 3,5,0,1,1,0,0,,1,No current failure
+2026-09-11,S0060,Advisory 4,5,1,0,0,0,0,SOC1-A,0,Follow-up review
+2026-09-11,S0061,Advisory 1,5,1,0,0,0,1,SCI1-B,0,Follow-up review
+2026-09-11,S0062,Advisory 2,5,1,1,0,1,0,MATH1-A,0,Follow-up review
+2026-09-11,S0063,Advisory 3,5,1,0,0,0,0,ENG1-B,0,Follow-up review
+2026-09-11,S0064,Advisory 4,5,0,1,1,0,0,,2,No current failure
+2026-09-11,S0065,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0066,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0067,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-11,S0068,Advisory 4,5,0,1,1,0,0,,0,No current failure
+2026-09-11,S0069,Advisory 1,5,0,1,1,0,0,,1,No current failure
+2026-09-11,S0070,Advisory 2,5,1,1,0,1,1,SCI1-A,0,Follow-up review
+2026-09-11,S0071,Advisory 3,5,1,1,1,0,0,MATH1-B,0,Follow-up review
+2026-09-11,S0072,Advisory 4,5,1,1,1,0,0,ENG1-A,0,Follow-up review
+2026-09-18,S0001,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0002,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0003,Advisory 3,5,0,0,0,0,0,,1,No current failure
+2026-09-18,S0004,Advisory 4,5,1,0,0,0,0,ELECT1-A,0,Follow-up review
+2026-09-18,S0005,Advisory 1,5,1,0,0,0,0,SOC1-B,0,Follow-up review
+2026-09-18,S0006,Advisory 2,5,1,1,0,1,1,SCI1-A,0,Follow-up review
+2026-09-18,S0007,Advisory 3,5,1,1,0,1,1,MATH1-B,0,Follow-up review
+2026-09-18,S0008,Advisory 4,5,1,1,0,1,0,ENG1-A,1,Current failure
+2026-09-18,S0009,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-18,S0010,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0011,Advisory 3,5,0,0,0,0,0,,2,No current failure
+2026-09-18,S0012,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0013,Advisory 1,5,1,1,1,0,0,SOC1-B,1,Current failure
+2026-09-18,S0014,Advisory 2,5,0,2,1,1,0,,0,No current failure
+2026-09-18,S0015,Advisory 3,5,0,1,1,0,0,,0,No current failure
+2026-09-18,S0016,Advisory 4,5,1,1,0,1,0,MATH1-A,0,Follow-up review
+2026-09-18,S0017,Advisory 1,5,0,1,0,1,0,,0,No current failure
+2026-09-18,S0018,Advisory 2,5,0,1,1,0,0,,1,No current failure
+2026-09-18,S0019,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0020,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0021,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0022,Advisory 2,5,1,0,0,0,0,ELECT1-A,0,Follow-up review
+2026-09-18,S0023,Advisory 3,5,0,2,1,1,0,,1,No current failure
+2026-09-18,S0024,Advisory 4,5,1,1,0,1,1,SCI1-A,2,Follow-up review
+2026-09-18,S0025,Advisory 1,5,1,1,0,1,1,MATH1-B,0,Follow-up review
+2026-09-18,S0026,Advisory 2,5,1,1,1,0,0,ENG1-A,0,Follow-up review
+2026-09-18,S0027,Advisory 3,5,0,1,1,0,0,,0,No current failure
+2026-09-18,S0028,Advisory 4,5,0,0,0,0,0,,1,No current failure
+2026-09-18,S0029,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0030,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0031,Advisory 3,5,0,1,1,0,0,,0,No current failure
+2026-09-18,S0032,Advisory 4,5,1,1,0,1,0,SOC1-A,0,Follow-up review
+2026-09-18,S0033,Advisory 1,5,1,1,0,1,0,SCI1-B,1,Current failure
+2026-09-18,S0034,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0035,Advisory 3,5,1,1,1,0,0,ENG1-B,0,Follow-up review
+2026-09-18,S0036,Advisory 4,5,0,1,0,1,0,,0,No current failure
+2026-09-18,S0037,Advisory 1,5,0,1,0,1,0,,2,No current failure
+2026-09-18,S0038,Advisory 2,5,0,0,0,0,0,,1,No current failure
+2026-09-18,S0039,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0040,Advisory 4,5,1,0,0,0,0,ELECT1-A,0,Follow-up review
+2026-09-18,S0041,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-18,S0042,Advisory 2,5,0,1,1,0,0,,0,No current failure
+2026-09-18,S0043,Advisory 3,5,1,1,1,0,1,MATH1-B,1,Follow-up review
+2026-09-18,S0044,Advisory 4,5,1,1,1,0,0,ENG1-A,0,Follow-up review
+2026-09-18,S0045,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-18,S0046,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0047,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0048,Advisory 4,5,0,0,0,0,0,,1,No current failure
+2026-09-18,S0049,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-18,S0050,Advisory 2,5,0,1,1,0,0,,2,No current failure
+2026-09-18,S0051,Advisory 3,5,0,1,1,0,0,,0,No current failure
+2026-09-18,S0052,Advisory 4,5,0,1,0,1,0,,0,No current failure
+2026-09-18,S0053,Advisory 1,5,0,1,1,0,0,,1,No current failure
+2026-09-18,S0054,Advisory 2,5,1,0,0,0,0,ENG1-A,0,Follow-up review
+2026-09-18,S0055,Advisory 3,5,0,1,0,1,0,,0,No current failure
+2026-09-18,S0056,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0057,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0058,Advisory 2,5,0,1,1,0,0,,1,No current failure
+2026-09-18,S0059,Advisory 3,5,1,1,0,1,0,SOC1-B,0,Follow-up review
+2026-09-18,S0060,Advisory 4,5,1,1,0,1,1,SCI1-A,0,Follow-up review
+2026-09-18,S0061,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-18,S0062,Advisory 2,5,2,0,0,0,0,ENG1-A|MATH1-A,0,Follow-up review
+2026-09-18,S0063,Advisory 3,5,0,2,1,1,0,,2,No current failure
+2026-09-18,S0064,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0065,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0066,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-18,S0067,Advisory 3,5,1,0,0,0,0,ELECT1-B,0,Follow-up review
+2026-09-18,S0068,Advisory 4,5,1,1,1,0,0,SOC1-A,1,Current failure
+2026-09-18,S0069,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-18,S0070,Advisory 2,5,1,1,1,0,0,MATH1-A,0,Follow-up review
+2026-09-18,S0071,Advisory 3,5,0,1,1,0,0,,0,No current failure
+2026-09-18,S0072,Advisory 4,5,1,0,0,0,0,ENG1-A,0,Follow-up review
+2026-09-25,S0001,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0002,Advisory 2,5,0,0,0,0,0,,1,No current failure
+2026-09-25,S0003,Advisory 3,5,1,0,0,0,1,ELECT1-B,0,Follow-up review
+2026-09-25,S0004,Advisory 4,5,1,1,0,1,0,SOC1-A,0,Follow-up review
+2026-09-25,S0005,Advisory 1,5,1,1,1,0,0,SCI1-B,0,Follow-up review
+2026-09-25,S0006,Advisory 2,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0007,Advisory 3,5,0,1,1,0,0,,1,No current failure
+2026-09-25,S0008,Advisory 4,5,0,2,1,1,0,,0,No current failure
+2026-09-25,S0009,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0010,Advisory 2,5,0,0,0,0,0,,2,No current failure
+2026-09-25,S0011,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0012,Advisory 4,5,0,1,1,0,0,,1,No current failure
+2026-09-25,S0013,Advisory 1,5,1,1,0,1,0,SOC1-B,0,Follow-up review
+2026-09-25,S0014,Advisory 2,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0015,Advisory 3,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0016,Advisory 4,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0017,Advisory 1,5,1,1,0,1,0,ENG1-B,1,Current failure
+2026-09-25,S0018,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0019,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0020,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0021,Advisory 1,5,1,0,0,0,1,ELECT1-B,0,Follow-up review
+2026-09-25,S0022,Advisory 2,5,0,1,1,0,0,,1,No current failure
+2026-09-25,S0023,Advisory 3,5,1,1,1,0,0,SCI1-B,2,Current failure
+2026-09-25,S0024,Advisory 4,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0025,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0026,Advisory 2,5,1,0,0,0,0,ENG1-A,0,Follow-up review
+2026-09-25,S0027,Advisory 3,5,0,1,0,1,0,,1,No current failure
+2026-09-25,S0028,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0029,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0030,Advisory 2,5,1,0,0,0,0,ELECT1-A,0,Follow-up review
+2026-09-25,S0031,Advisory 3,5,0,1,0,1,0,,0,No current failure
+2026-09-25,S0032,Advisory 4,5,0,1,1,0,0,,1,No current failure
+2026-09-25,S0033,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0034,Advisory 2,5,1,0,0,0,0,MATH1-A,0,Follow-up review
+2026-09-25,S0035,Advisory 3,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0036,Advisory 4,5,0,1,0,1,0,,2,No current failure
+2026-09-25,S0037,Advisory 1,5,0,0,0,0,0,,1,No current failure
+2026-09-25,S0038,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0039,Advisory 3,5,1,0,0,0,1,ELECT1-B,0,Follow-up review
+2026-09-25,S0040,Advisory 4,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0041,Advisory 1,5,1,0,0,0,0,SOC1-B,0,Follow-up review
+2026-09-25,S0042,Advisory 2,5,0,1,1,0,0,,1,No current failure
+2026-09-25,S0043,Advisory 3,5,1,0,0,0,1,MATH1-B,0,Follow-up review
+2026-09-25,S0044,Advisory 4,5,1,0,0,0,0,ENG1-A,0,Follow-up review
+2026-09-25,S0045,Advisory 1,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0046,Advisory 2,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0047,Advisory 3,5,0,0,0,0,0,,1,No current failure
+2026-09-25,S0048,Advisory 4,5,1,0,0,0,0,ELECT1-A,0,Follow-up review
+2026-09-25,S0049,Advisory 1,5,1,1,1,0,0,SOC1-B,2,Current failure
+2026-09-25,S0050,Advisory 2,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0051,Advisory 3,5,1,0,0,0,0,SCI1-B,0,Follow-up review
+2026-09-25,S0052,Advisory 4,5,1,1,0,1,0,MATH1-A,1,Current failure
+2026-09-25,S0053,Advisory 1,5,1,1,1,0,0,ENG1-B,0,Follow-up review
+2026-09-25,S0054,Advisory 2,5,0,1,0,1,0,,0,No current failure
+2026-09-25,S0055,Advisory 3,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0056,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0057,Advisory 1,5,0,0,0,0,0,,1,No current failure
+2026-09-25,S0058,Advisory 2,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0059,Advisory 3,5,1,0,0,0,0,SOC1-B,0,Follow-up review
+2026-09-25,S0060,Advisory 4,5,1,0,0,0,1,SCI1-A,0,Follow-up review
+2026-09-25,S0061,Advisory 1,5,1,1,0,1,1,MATH1-B,0,Follow-up review
+2026-09-25,S0062,Advisory 2,5,0,1,1,0,0,,2,No current failure
+2026-09-25,S0063,Advisory 3,5,0,1,0,1,0,,0,No current failure
+2026-09-25,S0064,Advisory 4,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0065,Advisory 1,5,0,0,0,0,0,,0,No current failure
+2026-09-25,S0066,Advisory 2,5,1,0,0,0,0,ELECT1-A,0,Follow-up review
+2026-09-25,S0067,Advisory 3,5,0,1,1,0,0,,1,No current failure
+2026-09-25,S0068,Advisory 4,5,0,1,1,0,0,,0,No current failure
+2026-09-25,S0069,Advisory 1,5,1,0,0,0,0,SCI1-B,0,Follow-up review
+2026-09-25,S0070,Advisory 2,5,1,1,1,0,0,MATH1-A,0,Follow-up review
+2026-09-25,S0071,Advisory 3,5,1,1,1,0,0,ENG1-B,0,Follow-up review
+2026-09-25,S0072,Advisory 4,5,0,1,1,0,0,,1,No current failure
